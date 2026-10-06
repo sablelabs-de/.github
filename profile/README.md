@@ -13,9 +13,9 @@ Sable Labs is the organization behind Sable and our other projects.
 <!--You can find additional third-party clients & server implementations on our [protocol docs](https://proto.usesable.de/implementations)! (NOT UP YET!)-->
 
 ### 
-| Repository                                             | Description                        |
-| ------------------------------------------------------ | ---------------------------------- |
-| [blueberry](https://github.com/sablelabs-de/blueberry) | the official Sable server/backend) |
+| Repository                                             | Description                                |
+| ------------------------------------------------------ | ------------------------------------------ |
+| [blueberry](https://github.com/sablelabs-de/blueberry) | the official Sable protocol implementation |
 
 <!--
 ### Clients
