@@ -26,10 +26,11 @@ Sable Labs is the organization behind Sable and our other projects.
 
 ### Websites
 
-| Repository                                                     | Description                                              |
-| -------------------------------------------------------------- | -------------------------------------------------------- |
-| [sablelabs-www](https://github.com/sablelabs-de/sablelabs-www) | the official [Sable Labs website](https://sablelabs.de/) |
-| [sable-www](https://github.com/sablelabs-de/sablelabs-www)     | the [Sable landing page](https://sablelabs.de/)          |
+| Repository                                                     | Description                                                    |
+| -------------------------------------------------------------- | -------------------------------------------------------------- |
+| [sablelabs-www](https://github.com/sablelabs-de/sablelabs-www) | the official [Sable Labs website](https://sablelabs.de/)       |
+| [sable-www](https://github.com/sablelabs-de/sablelabs-www)     | the [Sable landing page](https://sablelabs.de/)                |
+| [proto-www](https://github.com/sablelabs-de/proto-www)         | the [Sable protocol documentation](https://proto.usesable.de/) |
 
 <!--
 ### Other
